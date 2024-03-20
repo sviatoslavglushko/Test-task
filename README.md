@@ -1,2 +1,4 @@
-# Test-task
-Project for performing a test task
+# Содержание директории dags
+
+1. configs - содержит конфигурацию DAG (TestTaskDAGConfig.json) в части расписания и объктов БД, с которыми взаимодействует процедура.
+2. dags - содержит файл исполняемого DAG (TestTaskDAG.py).
