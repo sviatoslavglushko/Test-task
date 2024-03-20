@@ -1,0 +1,12 @@
+{
+    "start_date": {
+        "year": 2024,
+        "month": 3,
+        "day": 17,
+        "tz": "UTC"
+    },
+    "bd_object":{
+        "sсhema_name": "test_task",
+        "table_name": "random_data"
+    }
+}
